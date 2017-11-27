@@ -10,7 +10,7 @@ title: Links
   - [conpass](https://gingerhack.connpass.com)
   - [GitHub](https://github.com/GingerHack)
 
-## 運営メンバーへのリンク
+## 参加メンバーのリンク
 
 {% for loop in site.data.authors %}{% assign key = loop[0] %}{% assign author = site.data.authors[key] %}  - {{ author.name | escape }}{% if author.homepage %}
     - [Homepage]({{ author.homepage }}){% endif %}{% if author.github_username %}
