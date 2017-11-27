@@ -1,0 +1,10 @@
+title: Ginger Ale Hackathon Blog
+description: ジンジャエールハッカソンの活動記録
+url: https://gingerhack.github.io
+baseurl: /blog
+author: Ginger Ale Hackathon運営
+github_username: GingerHack
+
+theme: minima
+plugins:
+  - jekyll-feed
