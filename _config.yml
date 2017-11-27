@@ -8,3 +8,7 @@ github_username: GingerHack
 theme: minima
 plugins:
   - jekyll-feed
+
+exclude:
+  - README.md
+  - vendor
